@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="14dp"
+    android:elevation="10dp"
+    android:layout_margin="30dp">
+
+    <LinearLayout
+        android:id="@+id/linear2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="7dp"
+        android:background="#C1BBBB">
+
+        <TextView
+            android:id="@+id/dayName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/day1"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:paddingVertical="5dp"
+            android:textSize="18sp"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/exname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/exercise_chest"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:paddingVertical="5dp"
+            android:textSize="18sp"
+            android:gravity="center"/>
+
+
+        <TextView
+            android:id="@+id/schTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/time_5_00_pm_6_00_pm"
+            android:paddingVertical="5dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:gravity="center"/>
+
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

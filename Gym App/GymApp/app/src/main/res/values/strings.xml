@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Fitness Freak</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="stay_connected">Stay Connected</string>
+    <string name="text_line2">Enter your email address and password to get access to your account</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="sign_up">SIGN UP</string>x
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="login_now">Login Now</string>
+    <string name="text_line3">Please login to continue using app</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="log_in">LOG IN</string>
+    <string name="google">Google</string>
+    <string name="or_with">Or With</string>
+    <string name="start">Start</string>
+    <string name="default_web_client_id" />
+    <string name="loading">Loading..</string>
+    <string name="logout">LogOut</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favourite">Favourite</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="welcome">Welcome</string>
+    <string name="chest">Chest</string>
+    <string name="workout_categories">Workout Categories</string>
+
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="fitness_freak">Fitness Freak</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="stopwatch">StopWatch</string>
+    <string name="timer">Timer</string>
+
+    <string name="weight_kg">Weight(Kg)</string>
+    <string name="height_cm">Height(cm)</string>
+    <string name="_00">00</string>
+    <string name="calculate_your_bmi">Calculate Your BMI</string>
+    <string name="your_bmi">Your BMI</string>
+    <string name="_20_2">20.2</string>
+    <string name="overweight">Overweight</string>
+    <string name="calculate_bmi_again">Calculate BMI Again</string>
+    <string name="body_mass_index">(Body Mass Index)</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="stop_watch">Stop Watch</string>
+    <string name="text_1"><![CDATA[Best GYM & Fitness Center Build Your Health & ultimate fitness solution.]]></string>
+    <string name="make_your_body_n_healthy_amp_fit"><![CDATA[Make Your Body \nHealthy & Fit]]></string>
+    <string name="title_activity_demo">demoActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="seated_rows">Seated Rows</string>
+    <string name="equipment_t_bar_row">Equipment: T-Bar Row</string>
+    <string name="schedule">Schedule</string>
+    <string name="workout_schedule">Workout Schedule</string>
+    <string name="_1">1</string>
+    <string name="submit">Submit</string>
+    <string name="select_the_day">Select the Day</string>
+    <string name="monday">Day</string>
+    <string name="select_the_exercise">Select the Exercise</string>
+    <string name="time_5_00_pm_6_00_pm">Time - 5:00 PM - 6:00 PM</string>
+    <string name="exercise_chest">Exercise - Chest</string>
+    <string name="day1">Monday</string>
+
+</resources>
